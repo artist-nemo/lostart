@@ -15,7 +15,7 @@ The missing works of art have never been recovered.
 
 video frame here
 
-This Video can also be seen in Augmented Reality with this app
+This Video can also be seen in Augmented Reality with the [Artivive](https://artivive.com) smartphone app (for free on both the Google Play store and the Apple App store).
 
 ## Individual Works of Lost Art
 
