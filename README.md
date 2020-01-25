@@ -1,6 +1,8 @@
 
 # Lost Art - for Hygienic XLI
 
+by Nemo <nemo@luxelorev.com>
+
 ## What we all lost 30 years ago
 
 On the morning of March 18, 1990, two thieves disguised as police officers broke into the the [Isabella Stewart Gardner Museum](https://www.gardnermuseum.org/about/theft) in Boston and stole [The Storm on the Sea of Galilee](https://en.wikipedia.org/wiki/The_Storm_on_the_Sea_of_Galilee) and 12 other works in what is considered to be the biggest art theft in U.S. history. The museum still displays the paintings' empty frames in their original locations, and the heist remains unsolved.
@@ -16,7 +18,7 @@ The missing works of art have never been recovered.
 Video of Lost Art:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=QDWjtl2GKgI" target="_blank">
- <img src="http://img.youtube.com/vi/QDWjtl2GKgI/0.jpg" alt="Lost Art Video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/QDWjtl2GKgI/0.jpg" alt="Lost Art Video" width="300" height="200" border="10" />
 </a>
 
 This Video can also be seen in Augmented Reality with the [Artivive](https://artivive.com) smartphone app (for free on both the Google Play store and the Apple App store).
@@ -109,4 +111,4 @@ Thanks to :sparkles: Maddy for help with the Video
 
 ## License
 
-Copyright @ 2020 [Nemo](http://www.nemo.org)
+Copyright @ 2020 [Nemo](mailto://nemo@luxelorev.com)
