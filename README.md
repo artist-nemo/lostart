@@ -15,8 +15,8 @@ The missing works of art have never been recovered.
 
 Video of Lost Art:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KOxbO0EI4MA" target="_blank">
- <img src="http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg" alt="Lost Art Video" width="240" height="180" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QDWjtl2GKgI" target="_blank">
+ <img src="http://img.youtube.com/vi/QDWjtl2GKgI/0.jpg" alt="Lost Art Video" width="240" height="180" border="10" />
 </a>
 
 This Video can also be seen in Augmented Reality with the [Artivive](https://artivive.com) smartphone app (for free on both the Google Play store and the Apple App store).
