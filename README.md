@@ -107,7 +107,7 @@ Anthony Amore, Director of Security at the Gardner Museum, at 617 278 5114 or [t
 
 
 
-Thanks to :sparkles: Maddy for help with the Video
+Special thanks to :sparkles: Maddy for help with this Video
 
 ## License
 
