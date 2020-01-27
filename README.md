@@ -21,7 +21,7 @@ Video of Lost Art:
  <img src="http://img.youtube.com/vi/QDWjtl2GKgI/0.jpg" alt="Lost Art Video" width="300" height="200" border="10" />
 </a>
 
-This Video can also be seen in Augmented Reality with the [Artivive](https://artivive.com) smartphone app (for free on both the Google Play store and the Apple App store).
+This Video can also be seen directly in the empty picture frame in **Augmented Reality** with the [Artivive](https://artivive.com) smartphone app (for **free** on both the [Google Play store](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwi-pp-Vl6TnAhVbgnIEHe6LCLcQFjACegQIARAB&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.artivive%26hl%3Den_US&usg=AOvVaw1aX2YiHyNZpW_2J98LDrIT) and the [Apple App store](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwi-pp-Vl6TnAhVbgnIEHe6LCLcQFjABegQIAxAB&url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fartivive%2Fid1188737494&usg=AOvVaw3GTpcga4LnwL5HPML3E7lp) ).
 
 ## Individual Works of Lost Art
 
@@ -100,14 +100,14 @@ The Museum is offering a reward of $10 million for information leading directly 
 Anyone with information about the stolen artworks and/or the investigation should contact 
 Anthony Amore, Director of Security at the Gardner Museum, at 617 278 5114 or [theft@gardnermuseum.org](mailto://theft@gardnermuseum.org)
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-
-
-
-
-
-Special thanks to :sparkles: Maddy for help with this Video
+**Special thanks** to :sparkles: **Maddy** for help with this Video
 
 ## License
 
