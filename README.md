@@ -1,7 +1,7 @@
 
 # Lost Art - for Hygienic XLI
 
-by Nemo <nemo@luxelorev.com>
+by Nemo <nemo@rkosecurity.com>
 
 ## What we all lost 30 years ago
 
@@ -111,4 +111,4 @@ Anthony Amore, Director of Security at the Gardner Museum, at 617 278 5114 or [t
 
 ## License
 
-Copyright @ 2020 [Nemo](mailto://nemo@luxelorev.com)
+Copyright @ 2020 [Nemo](mailto://nemo@rkosecurity.com)
